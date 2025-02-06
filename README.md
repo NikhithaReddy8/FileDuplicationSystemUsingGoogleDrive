@@ -21,6 +21,8 @@ Before using the system, ensure you have:
 - A **Google Cloud Project** with Google Drive API enabled
 - Enable **Google Drive API** in the Google Cloud Console
 - Configure the **OAuth consent screen** with required details
+   - Publishing status: In production
+   - User type: External
 - Create an **OAuth Client ID** for authentication
 - Download the **OAuth 2.0 credentials.json** file and place it inside the `resources/` directory. *(Note: GitHub does not allow pushing this file for security reasons; you must download and add it manually.)*
 - An active **Google Drive account**
