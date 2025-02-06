@@ -42,10 +42,7 @@ Before using the system, ensure you have:
 
 ### Setup
 
-1. Run the program:
-   ```sh
-   java -jar target/google-drive-deduplication.jar
-   ```
+1. Run the program
 2. Authenticate with Google when prompted.
 3. Enter the **Google Drive folder ID** to scan for duplicates.
 4. Choose an action:
